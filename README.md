@@ -128,6 +128,13 @@ Navigate to the `frontend` directory and install dependencies:
 - **Frontend:** [https://decentralized-voting-application.vercel.app/](https://decentralized-voting-application.vercel.app/)
 
 
+
+## Acknowledgments
+
+We express our gratitude to the open-source community, contributors, and organizations that have inspired and supported the development of this Decentralized Voting Application.
+
+For real-time notifications, discussions, and community engagement, join our Discord server: [https://discord.gg/nNmuBqdu](https://discord.gg/nNmuBqdu)
+
 ## License
 
 This project is licensed under the MIT License.
