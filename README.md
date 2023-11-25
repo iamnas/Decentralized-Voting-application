@@ -126,6 +126,7 @@ Navigate to the `frontend` directory and install dependencies:
 
 - **Backend:** [https://backend-one-mu.vercel.app/](https://backend-one-mu.vercel.app/)
 - **Frontend:** [https://decentralized-voting-application.vercel.app/](https://decentralized-voting-application.vercel.app/)
+- **Voting Contract:** [https://sepolia.etherscan.io/address/0x5ad898c0c572facddb531adf2cac4b15ccd10635](https://sepolia.etherscan.io/address/0x5ad898c0c572facddb531adf2cac4b15ccd10635)
 
 
 
