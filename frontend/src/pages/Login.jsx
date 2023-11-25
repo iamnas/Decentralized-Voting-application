@@ -16,7 +16,8 @@ const Login = ({ wallet }) => {
 
   const connectWallet = async () => {
     if (typeof window != "undefined" && typeof window.ethereum != "undefined") {
-      if (window.ethereum.chainId === "0x13881") {
+
+      if (window.ethereum.chainId === "0xaa36a7") {
         try {
           const provider = new ethers.BrowserProvider(window.ethereum);
           await provider.send("eth_requestAccounts", []);
@@ -45,7 +46,7 @@ const Login = ({ wallet }) => {
           toast.error(error.message);
         }
       } else {
-        toast.error("Please select MUMBAI test network");
+        toast.error("Please select SEPOLIA test network");
       }
     } else {
       toast.error("Please install metamask");
