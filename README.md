@@ -125,7 +125,7 @@ Navigate to the `frontend` directory and install dependencies:
 ## Deployed Instances
 
 - **Backend:** [https://backend-one-mu.vercel.app/](https://backend-one-mu.vercel.app/)
-- **Frontend:** [https://decentralized-voting-system-frontend.vercel.app/](https://decentralized-voting-system-frontend.vercel.app/)
+- **Frontend:** [https://decentralized-voting-application.vercel.app/](https://decentralized-voting-application.vercel.app/)
 
 
 ## License
