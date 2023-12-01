@@ -48,8 +48,8 @@ Clone the repository and install dependencies:
 
 ```bash
 
-    git clone https://github.com/iamnas/Decentralized-Voting-System.git
-    cd Decentralized-Voting-System
+    git clone https://github.com/iamnas/Decentralized-Voting-application.git
+    cd Decentralized-Voting-application
 
 ```
 
